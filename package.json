@@ -1,0 +1,12 @@
+{
+  "name": "market-briefing-bot",
+  "version": "1.0.0",
+  "description": "Daily pre-market briefing bot for QQQ/SPY/VIX",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-fetch": "2.6.9"
+  }
+}
